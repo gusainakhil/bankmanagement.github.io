@@ -1,0 +1,26 @@
+i 
+{
+  font-size: 20px;
+}
+ul {
+        list-style-type: none;  
+         }
+         li 
+         {
+          float: left;
+         }
+        li a
+         {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 10px 26px;
+         text-decoration: none;
+         font-size: 20px;
+         font-family: centure; 
+         }
+         li a:hover 
+         {
+          color: red;
+          font-size:18px;
+      }
